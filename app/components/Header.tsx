@@ -37,7 +37,7 @@ export function Header({
             </div>
             <div className="hidden sm:block">
               <h1 className="text-lg font-bold tracking-tight text-gray-900 dark:text-white">
-                DevHive <span className="text-violet-500">Kanban</span>
+                Alexis <span className="text-violet-500">Kanban</span>
               </h1>
             </div>
           </div>
